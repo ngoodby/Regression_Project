@@ -3,3 +3,4 @@
 !figures/*
 !*.ipynb
 !project_data/*
+!*.pdf
