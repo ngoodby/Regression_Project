@@ -1,0 +1,7 @@
+*
+!.gitignore
+!*.png
+!*.ipynb
+!cleaned_trails.pkl
+!all_trails_complete.pkl
+!url_list
