@@ -1,6 +1,6 @@
 *
 !.gitignore
-!*.png
+!figures/*
 !*.ipynb
 !cleaned_trails.pkl
 !all_trails_complete.pkl
